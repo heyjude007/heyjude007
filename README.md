@@ -11,6 +11,7 @@ Here you will find where I dump things I am working on.
 - PS2 Phat SCPH-5502 - Unmodded :(
 - PS2 Slim SCPH-70002 - FreeMCBoot
 - PS1 SCPH-7502 - Modchipped
+- PSVita - PCH-2002 - HENkaku Ensō 3.65
 - Nintendo Wii - Letterbomb
 - Nintendo Switch - Unmodded :(
 - OG Xbox 1.6 - Unmodded :( (Awaiting a modchip, has a dead HDD)
