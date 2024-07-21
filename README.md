@@ -6,10 +6,10 @@ Here you will find where I dump things I am working on.
 
 # A semi-extensive list of my gear
 ## Consoles
-- PS3 Slim CECH-2502B - Evilnat 4.91
+- PS3 Slim CECH-2502B - 500GB Seagate HDD - Evilnat CFW 4.91 (CEX)
+- PS3 Phat CECHL02 - 320GB Toshiba HDD - Evilnat CFW 4.91 (CEX)
 - PS3 Phat CECHC02 - Dead, suspected PSU fault
-- PS2 Phat SCPH-3502 - FreeHDBoot
-- PS2 Phat SCPH-5502 - Unmodded :(
+- PS2 Phat SCPH-35002 - FreeHDBoot
 - PS2 Slim SCPH-70002 - FreeMCBoot
 - PS1 SCPH-7502 - Modchipped
 - PSVita - PCH-2002 - HENkaku Ensō 3.65
@@ -18,24 +18,30 @@ Here you will find where I dump things I am working on.
 - OG Xbox 1.6 - Unmodded :( (Awaiting a modchip, has a dead HDD)
 - OG Xbox 1.6 Crystal - Rocky5's Xbox Softmodding Tool (UnleashX Dash)
 ## Computers
-- Custom Build - Intel Core i5 8400 - 16GB DDR4 RAM - 2x 1TB WDC Black + 3TB Seagate Barracuda - Dualbooting Windows 11 Pro and Pop!_OS
+- Custom Build - Intel Core i5 8400 - 16GB DDR4 RAM - 2x 1TB WDC Black + 3TB Seagate Barracuda - ASUS STRIX GTX 970 - Dualbooting Windows 11 Pro and Ubuntu 24.04
 - HP ProBook G1 - Intel Core i5 4200M - 16GB DDR3 RAM - 500GB Crucial BX500 SSD - Pop!_OS
 - HP Probook 4340s - Intel Core i5 3xxxM - No RAM - No HDD - Currently not in use
 - HP Pavillion dv7 - Intel Core i7 1st Gen - 4gb DDR3 RAM - 2x 160gb Toshiba HDDs - Dualbooting Windows 10 Pro and Kali Linux
 - HP Proliant MicroServer Gen10 - AMD Opteron X3216 - 8GB DDR4 RAM - 6TB WD Red and 500GB Seagate Barracuda - Windows Server 2019
-- MacBook Air Mid 2011 (MacBookAir4,2) - Intel Core i5 2467M - Intel HD Graphics 3000 - 4GB Soldered DDR3 RAM - 120GB Apple SSD - macOS 11.7.10 (Big Sur) (Through OCLP)
-- MacBook Pro Mid 2010 (MacBookPro7,1) - Intel Core 2 Duo - 10GB DDR3 RAM - 128GB Kingston SSD - macOS 12.7.4 (Monterey) (Through OCLP)
+- MacBook Air Mid 2011 13" (MacBookAir4,2) - Intel Core i5 2467M - Intel HD Graphics 3000 - 4GB Soldered DDR3 RAM - 120GB Apple SSD - macOS 11.7.10 (Big Sur) (OCLP)
+- MacBook Pro Mid 2010 13" (MacBookPro7,1) - Intel Core 2 Duo - 10GB DDR3 RAM - 128GB Kingston SSD - macOS 12.7.4 (Monterey) (OCLP)
 - MacBook Late 2006 (MacBook2,1) - Intel Core 2 Duo - 3GB DDR2 RAM - 320GB Toshiba HDD - Dualbooting macOS 10.7 (Lion) and Windows 7
+- Macbook Pro Late 2011 13" (MacbookPro8,1) - Intel Core i5 2435M - 8GB DDR3 RAM - 500GB Toshiba HDD - macOS 10.15.7 (Catalina) (Dosdude1 Patcher)
+- Macbook Pro Late 2009 15" (MacbookPro5,4) - Intel Core 2 Duo P8700 - 8GB DDR3 RAM - 500GB Samsung 850 Evo - Elementary OS 7.1
 - iBook G3 Snow (PowerBook4,1) - PowerPC G3 - 128MB RAM - 10GB HDD - Mac OS 9.2.1
-- iMac Mid 2010 - Intel Core i3 1st Gen - 12GB DDR3 RAM - 750GB Kingston HDD - macOS 14.1.1 (Sonoma) (Through OCLP)
+- iMac Mid 2010 21" (iMac11,2) - Intel Core i3-540 - 12GB DDR3 RAM - 240GB PNY SSD - Dualbooting macOS 10.13.6 (High Sierra) and Debian 12
+- iMac Late 2013 27" (iMac14,2) - Intel Core i5-4670 - 16GB DDR3 RAM - 1TB WD HDD - macOS 14.5 (OCLP)
 - Compaq 5104US - Intel Pentium III - 128MB DDR1 RAM - 80GB HDD - Windows 98 Second Edition
 - Compaq Armada 1750 - Intel Pentium II - 64MB RAM - No OS
 - IBM Thinkcenter - Intel Pentium 4 - 256MB DDR1 RAM - Windows XP
 - Alienware Sentia m50 - Intel Centrino - 1GB DDR2 RAM - Windows XP
+- Lenovo Thinkpad T420 - Intel Core i5-2520M - No RAM - No HDD - Currently not in use
 ## Phones
-- Samsung Galaxy A13 - Unmodded :(
+- Xiaomi Redmi Note 13 - Unmodded :(
 - iPhone 7 - Palera1n
 - iPhone 3G - Redsn0w
+- iPhone 4S - p0sixspwn
+- iPhone 4S - daibutsu
 - Nokia Lumia 950 XL - Unmodded :(
 ## Home Networking
 - TP-Link Archer AX1500
