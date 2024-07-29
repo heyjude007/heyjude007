@@ -46,6 +46,6 @@ Here you will find where I dump things I am working on.
 ## Home Networking
 - TP-Link Archer AX1500
 - Google Wifi Mesh
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyjude007)](https://github.com/anuraghazra/github-readme-stats)
 
   
