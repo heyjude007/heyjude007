@@ -19,6 +19,7 @@ Here you will find where I dump things I am working on.
 - OG Xbox 1.6 Crystal - Rocky5's Xbox Softmodding Tool (UnleashX Dash)
 ## Computers
 - Custom Build - Intel Core i5 8400 - 16GB DDR4 RAM - 2x 1TB WDC Black + 3TB Seagate Barracuda - ASUS STRIX GTX 970 - Dualbooting Windows 11 Pro and Ubuntu 24.04
+- HP EliteBook 830 G6 - Intel Core i5 8265U - 16GB DDR4 RAM - 256GB WDC M.2 SSD - Windows 11 Pro
 - HP ProBook G1 - Intel Core i5 4200M - 16GB DDR3 RAM - 500GB Crucial BX500 SSD - Pop!_OS
 - HP Probook 4340s - Intel Core i5 3xxxM - No RAM - No HDD - Currently not in use
 - HP Pavillion dv7 - Intel Core i7 1st Gen - 4gb DDR3 RAM - 2x 160gb Toshiba HDDs - Dualbooting Windows 10 Pro and Kali Linux
@@ -29,6 +30,7 @@ Here you will find where I dump things I am working on.
 - Macbook Pro Late 2011 13" (MacbookPro8,1) - Intel Core i5 2435M - 8GB DDR3 RAM - 500GB Toshiba HDD - macOS 10.15.7 (Catalina) (Dosdude1 Patcher)
 - Macbook Pro Late 2009 15" (MacbookPro5,4) - Intel Core 2 Duo P8700 - 8GB DDR3 RAM - 500GB Samsung 850 Evo - Elementary OS 7.1
 - iBook G3 Snow (PowerBook4,1) - PowerPC G3 - 128MB RAM - 10GB HDD - Mac OS 9.2.1
+- Power Mac G5 Dual 2.0GHz (PowerMac7,1) - 2x PowerPC G5 (970) - 512MB DDR1 RAM - 120GB HDD - NVidia FX 5200 Ultra - Mac OS X 10.5.9 (Sorbet Leopard - Unofficial)
 - iMac Mid 2010 21" (iMac11,2) - Intel Core i3-540 - 12GB DDR3 RAM - 240GB PNY SSD - Dualbooting macOS 10.13.6 (High Sierra) and Debian 12
 - iMac Late 2013 27" (iMac14,2) - Intel Core i5-4670 - 16GB DDR3 RAM - 1TB WD HDD - macOS 14.5 (OCLP)
 - Compaq 5104US - Intel Pentium III - 128MB DDR1 RAM - 80GB HDD - Windows 98 Second Edition
