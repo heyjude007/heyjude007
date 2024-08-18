@@ -32,6 +32,7 @@ Here you will find where I dump things I am working on.
 - Macbook Pro Late 2009 15" (MacbookPro5,4) - Intel Core 2 Duo P8700 - 8GB DDR3 RAM - 500GB Samsung 850 Evo - Elementary OS 7.1
 - iBook G3 Snow (PowerBook4,1) - PowerPC G3 - 128MB RAM - 10GB HDD - Mac OS 9.2.1
 - Power Mac G5 Dual 2.0GHz (PowerMac7,1) - 2x PowerPC G5 (970) - 512MB DDR1 RAM - 120GB HDD - NVidia FX 5200 Ultra - Mac OS X 10.5.9 (Sorbet Leopard - Unofficial)
+- eMac 700MHz (PowerMac4,4) - PowerPC G4e - 640MB DDR1 RAM - 40GB HDD - Dualbooting Mac OS X 10.4.4 (Tiger) and Mac OS X 10.5.9 (Sorbet Leopard - Unofficial)
 - iMac Mid 2010 21" (iMac11,2) - Intel Core i3-540 - 12GB DDR3 RAM - 240GB PNY SSD - Dualbooting macOS 10.13.6 (High Sierra) and Debian 12
 - iMac Late 2013 27" (iMac14,2) - Intel Core i5-4670 - 16GB DDR3 RAM - 1TB WD HDD - macOS 14.5 (OCLP)
 - Compaq 5104US - Intel Pentium III - 128MB DDR1 RAM - 80GB HDD - Windows 98 Second Edition
