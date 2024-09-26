@@ -41,6 +41,7 @@ Here you will find where I dump things I am working on.
 - IBM Thinkcenter - Intel Pentium 4 - 256MB DDR1 RAM - Windows XP
 - Alienware Sentia m50 - Intel Centrino - 1GB DDR2 RAM - Windows XP
 - Lenovo Thinkpad T420 - Intel Core i5-2520M - No RAM - No HDD - Currently not in use
+- Dell Dimension 8300 - Intel Pentium 4 - 1GB DDR1 RAM - Windows XP Professional
 ## Phones
 - Xiaomi Redmi Note 13 - Unmodded :(
 - iPhone 7 - Palera1n
