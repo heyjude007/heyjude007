@@ -20,7 +20,7 @@ Here you will find where I dump things I am working on.
 - OG Xbox 1.6 Crystal - Rocky5's Xbox Softmodding Tool (UnleashX Dash)
 ## Computers
 - Custom Build - Intel Core i5 8400 - 16GB DDR4 RAM - 2x 1TB WDC Black + 3TB Seagate Barracuda - ASUS STRIX GTX 970 - Dualbooting Windows 11 Pro and Ubuntu 24.04
-- HP EliteBook 830 G6 x360 - Intel Core i5 8265U - 16GB DDR4 RAM - 256GB WDC M.2 SSD - Windows 11 Pro
+- HP EliteBook 830 G6 x360 - Intel Core i5 8265U - 16GB DDR4 RAM - 256GB WDC M.2 SSD - Dualbooting Windows 11 Pro and Manjaro 24.1 KDE
 - Microsoft Surface Pro (2017) - Intel Core m3-7y30 - 4GB DDR3 RAM - 128GB SSD - Dualbooting Windows 10 Pro and Ubuntu 24.10
 - HP ProBook G1 - Intel Core i5 4200M - 16GB DDR3 RAM - 500GB Crucial BX500 SSD - Pop!_OS
 - HP Probook 4340s - Intel Core i5 3xxxM - No RAM - No HDD - Currently not in use
