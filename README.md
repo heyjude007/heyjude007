@@ -18,6 +18,8 @@ Here you will find where I dump things I am working on.
 - OG Xbox 1.6 - Unmodded :( (Awaiting a modchip, has a dead HDD)
 - OG Xbox 1.6 - Aladdin XT (EvolutionX Dash)
 - OG Xbox 1.6 Crystal - Rocky5's Xbox Softmodding Tool (UnleashX Dash)
+- Sega Master System II
+- Sega Mega Drive II
 ## Computers
 - Custom Build - Intel Core i5 8400 - 16GB DDR4 RAM - 2x 1TB WDC Black + 3TB Seagate Barracuda - ASUS STRIX GTX 970 - Dualbooting Windows 11 Pro and Ubuntu 24.04
 - HP EliteBook 830 G6 x360 - Intel Core i5 8265U - 16GB DDR4 RAM - 256GB WDC M.2 SSD - Dualbooting Windows 11 Pro and Manjaro 24.1 KDE
